@@ -30,8 +30,7 @@
 
 <ul>
   <li>📊 <strong><a href="https://github.com/DaviAlbues/Crajubar-Mortalidade">Análise de Mortalidade Crajubar</a></strong>: Análise Exploratória de Dados (EDA) e estatística detalhada sobre os registros de óbitos no Cariri utilizando Python, Pandas e Jupyter Notebook.</li>
-  <li>🎨 <strong><a href="#">Sistema de Gestão Escolar</a></strong>: Protótipo de alta fidelidade desenvolvido no Figma, com interfaces focadas na experiência de professores, alunos e pais.</li>
-  <li>🌐 <strong><a href="#">Conexões de Rede com Netcat</a></strong>: Estudo e projeto prático focado na exploração e configuração de conexões de rede utilizando a ferramenta Netcat.</li>
+ 
 </ul>
 
 <hr>
